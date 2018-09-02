@@ -1,7 +1,7 @@
 KCC BOT
 ===================
 
-A bot to answer queries of a farmer that uses machine learning on an dataset consisting of pre-answered queries of farmers by the Kisan Call Center.  
+A bot to answer queries of a farmer that uses machine learning on a dataset consisting of pre-answered queries of farmers by the Kisan Call Center.  
   
 The bot is built using the [Microsoft Bot Framework](https://dev.botframework.com/)  
 The bot queries a python server built using Flask.  
