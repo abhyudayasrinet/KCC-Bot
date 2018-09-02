@@ -1,0 +1,3 @@
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\FlaskDemo\FlaskDemo\obj\Debug\FlaskDemo.pyproj.CoreCompileInputs.cache
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\FlaskDemo\FlaskDemo\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\FlaskDemo\FlaskDemo\bin\wfastcgi.py

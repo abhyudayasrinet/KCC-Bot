@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskDemo", "FlaskDemo\FlaskDemo.pyproj", "{89D70F75-3D6E-41E1-91E0-FC2BE74DB4E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D70F75-3D6E-41E1-91E0-FC2BE74DB4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D70F75-3D6E-41E1-91E0-FC2BE74DB4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D70F75-3D6E-41E1-91E0-FC2BE74DB4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D70F75-3D6E-41E1-91E0-FC2BE74DB4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://machathon.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FlaskDemo\\FlaskDemo.pyproj
+		SccProjectName1 = FlaskDemo
+		SccLocalPath1 = FlaskDemo
+	EndGlobalSection
+EndGlobal

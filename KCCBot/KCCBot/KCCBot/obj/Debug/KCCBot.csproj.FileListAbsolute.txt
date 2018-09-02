@@ -1,0 +1,42 @@
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Bot Application.dll.config
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Bot Application.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Bot Application.pdb
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Autofac.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Chronic.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Newtonsoft.Json.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\System.Net.Http.Formatting.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\System.Web.Http.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\System.Web.Http.WebHost.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Autofac.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\Newtonsoft.Json.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\System.Net.Http.Formatting.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\System.Web.Http.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\System.Web.Http.WebHost.xml
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\obj\Debug\KCCBot.csprojResolveAssemblyReference.cache
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\obj\Debug\KCCBot.csproj.CoreCompileInputs.cache
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\obj\Debug\KCCBot.csproj.CopyComplete
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\obj\Debug\Bot Application.dll
+C:\Users\absrin\Desktop\Machathon\Visual Studio Projects\KCCBot\KCCBot\KCCBot\obj\Debug\Bot Application.pdb
